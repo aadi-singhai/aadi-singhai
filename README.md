@@ -52,7 +52,7 @@ An aspiring **Full-Stack Developer** and **Cloud/Cybersecurity enthusiast** curr
 ---
 
 ## 📫 Let's Connect!
-* 💼 Connect with me on [LinkedIn](www.linkedin.com/in/aadi-singhai-0606b3311)
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aadi-singhai-0606b3311)
 * 📧 Shoot me an email: [Gmail](mailto:aadi.singhaiit2023@indoreinstitute.com)
 
 <p align="center">
