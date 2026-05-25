@@ -52,8 +52,8 @@ An aspiring **Full-Stack Developer** and **Cloud/Cybersecurity enthusiast** curr
 ---
 
 ## 📫 Let's Connect!
-* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aadi-singhai)
-* 📧 Shoot me an email: [your.email@example.com](mailto:aadi.singhaiit2023@indoreinstitute.com)
+* 💼 Connect with me on [LinkedIn](www.linkedin.com/in/aadi-singhai-0606b3311)
+* 📧 Shoot me an email: [Gmail](mailto:aadi.singhaiit2023@indoreinstitute.com)
 
 <p align="center">
   <i>"When you want something, all the universe conspires in helping you to achieve it."</i> ✨
