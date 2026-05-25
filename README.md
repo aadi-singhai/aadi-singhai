@@ -34,12 +34,12 @@ An aspiring **Full-Stack Developer** and **Cloud/Cybersecurity enthusiast** curr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visualstudio&include_all_commits=true&count_private=true" alt="Aadi's GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visualstudio&langs_count=6" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi-singhai&show_icons=true&theme=visualstudio&include_all_commits=true&count_private=true" alt="Aadi's GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi-singhai&layout=compact&theme=visualstudio&langs_count=6" alt="Top Languages" height="192px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=visualstudio" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-singhai&theme=visualstudio" alt="GitHub Streak" />
 </p>
 
 ---
